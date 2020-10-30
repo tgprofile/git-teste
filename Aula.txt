@@ -1,14 +1,7 @@
-conceito sempre caixa baixa, sem acentuações ç etc...
 
 
+working space - git não sabe do que se trata
 
+Stage - esperando 
 
-
-
-
-
-working space
-
-Stage
-
-commited
+commited - carimbar arquivo com data e hora 
